@@ -2,4 +2,4 @@
 ### Цель работы: Изучить принципы работы ботов, библиотеки, и возможности.
 #### Вариант №5: Чат-бот родителей в классе (возможность смотреть успеваемость своего ребенка)
 ##### Ссылка на бота: https://t.me/StudentPerformancebot
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Djacsal/LB2/blob/main/I7uiOov_8Cc.jpg)
