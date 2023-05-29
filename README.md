@@ -4,4 +4,4 @@
 ##### Ссылка на бота: https://t.me/StudentPerformancebot
 ![Image alt](https://github.com/Djacsal/LB2/blob/main/MyTvzADO_7w.jpg)
 ####Список учеников из Exel фала
-![Image alt](https://github.com/Djacsal/LB2/blob/main/MyTvzADO_7w.jpg)
+![Image alt](https://github.com/Djacsal/LB2/blob/main/Безымянный.png)
